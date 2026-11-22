@@ -1,0 +1,6 @@
+{
+  "name": "KOMOREBI — A Forest Flight",
+  "description": "Pilot a 1903 Wright Flyer along a misty Japanese forest river, collect spirit lanterns, fly through torii gates, and reach the Cloud Sanctuary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
